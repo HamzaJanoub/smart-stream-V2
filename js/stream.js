@@ -6,3 +6,4 @@ export function loadVideoStreaming(data){
         
     })
 }
+
